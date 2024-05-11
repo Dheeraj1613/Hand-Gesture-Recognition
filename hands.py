@@ -1,3 +1,5 @@
+#This code doesn't use mediapipe
+
 import cv2
 import numpy as np
 
